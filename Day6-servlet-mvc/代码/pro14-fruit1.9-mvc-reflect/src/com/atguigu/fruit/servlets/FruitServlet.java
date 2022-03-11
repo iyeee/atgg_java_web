@@ -12,6 +12,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.List;
 
 @WebServlet("/fruit.do")
@@ -27,26 +29,41 @@ public class FruitServlet extends ViewBaseServlet {
         if(StringUtil.isEmpty(operate)){
             operate = "index" ;
         }
+        System.out.println(operate);
 
-        switch(operate){
-            case "index":
-                index(request,response);
-                break;
-            case "add":
-                add(request,response);
-                break;
-            case "del":
-                del(request,response);
-                break;
-            case "edit":
-                edit(request,response);
-                break;
-            case "update":
-                update(request,response);
-                break;
-            default:
-                throw new RuntimeException("operate值非法!");
+        Method[] declaredMethods = this.getClass().getDeclaredMethods();
+        for(Method method:declaredMethods){
+            if(operate.equals(method.getName())){
+                try {
+                    method.invoke(this,request,response);
+                    return;
+                } catch (IllegalAccessException | InvocationTargetException e) {
+                    e.printStackTrace();
+                }
+
+            }
         }
+        throw new RuntimeException("未找到方法");
+
+//        switch(operate){
+//            case "index":
+//                index(request,response);
+//                break;
+//            case "add":
+//                add(request,response);
+//                break;
+//            case "del":
+//                del(request,response);
+//                break;
+//            case "edit":
+//                edit(request,response);
+//                break;
+//            case "update":
+//                update(request,response);
+//                break;
+//            default:
+//                throw new RuntimeException("operate值非法!");
+//        }
     }
 
     private void update(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

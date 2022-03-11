@@ -56,21 +56,7 @@ public class DispatcherServlet extends HttpServlet {
                     beanMap.put(beanId , beanObj) ;
                 }
             }
-        } catch (ParserConfigurationException e) {
-            e.printStackTrace();
-        } catch (SAXException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (InstantiationException e) {
-            e.printStackTrace();
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        } catch (NoSuchMethodException e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
+        } catch (ParserConfigurationException | SAXException | IOException | IllegalAccessException | InstantiationException | ClassNotFoundException | NoSuchMethodException | InvocationTargetException e) {
             e.printStackTrace();
         }
     }
@@ -98,17 +84,9 @@ public class DispatcherServlet extends HttpServlet {
 
         try {
             Method method = controllerBeanObj.getClass().getDeclaredMethod(operate,HttpServletRequest.class,HttpServletResponse.class);
-            if(method!=null){
-                method.setAccessible(true);
-                method.invoke(controllerBeanObj,request,response);
-            }else{
-                throw new RuntimeException("operate值非法!");
-            }
-        } catch (NoSuchMethodException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
+            method.setAccessible(true);
+            method.invoke(controllerBeanObj,request,response);
+        } catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
         }
     }

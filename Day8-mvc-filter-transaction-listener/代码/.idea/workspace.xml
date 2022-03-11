@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pro20-fruit2.3-mvc-transaction:war exploded" />
+      <artifact name="pro20-fruit2.3-mvc-transaction:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efbbae3d-cfe4-453f-8073-f298333d4cb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/.idea/artifacts/pro11_fruit1_6_pagination_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/.idea/artifacts/pro12_fruit1_7_keyword_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/dao/FruitDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/dao/impl/FruitDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/IndexServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/dao/FruitDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/dao/impl/FruitDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/servlets/IndexServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/artifacts/pro16_fruit2_1_mvc_controller_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/libraries/thymeleaf_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/.idea/代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/ognl-3.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/thymeleaf_lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/artifacts/pro17_fruit2_2_mvc_service_ioc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/artifacts/pro18_servlet_api_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/libraries/thymeleaf_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/.idea/代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/ognl-3.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/thymeleaf_lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pro19_filter_listener_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pro20_fruit2_3_mvc_transaction_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/thymeleaf_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/代码.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/ognl-3.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thymeleaf_lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/.idea/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/.idea/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo01Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo02Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo03Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo04Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo05Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/demo/Demo06Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/dao/FruitDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/dao/impl/FruitDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/pojo/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/pojo/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/AddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/AddServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/DelServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/DelServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/EditServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/EditServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/IndexServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/fruit/servlets/UpdateServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/myssm/basedao/BaseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/myssm/basedao/BaseDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/myssm/myspringmvc/ViewBaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/myssm/myspringmvc/ViewBaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/classes/com/atguigu/myssm/util/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/classes/com/atguigu/myssm/util/StringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/javassist-3.20.0-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/log4j-1.2.15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/log4j-1.2.15.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/ognl-3.1.26.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/ognl-3.1.26.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/thymeleaf-3.0.12.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/css/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/css/add.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/css/edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/css/edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/imgs/del.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/imgs/del.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro10_fruit1_5_thymeleaf_Web_exploded/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/artifacts/pro11_fruit1_6_pagination_war_exploded/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo01Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo02Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo03Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo04Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo05Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/demo/Demo06Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/dao/FruitDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/dao/impl/FruitDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/pojo/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/pojo/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/servlets/AddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/servlets/AddServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/servlets/DelServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/servlets/DelServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/servlets/EditServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/servlets/EditServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/servlets/IndexServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/fruit/servlets/UpdateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/fruit/servlets/UpdateServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/myssm/basedao/BaseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/myssm/basedao/BaseDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/myssm/myspringmvc/ViewBaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/myssm/myspringmvc/ViewBaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro10-fruit1.5-thymeleaf/com/atguigu/myssm/util/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/out/production/pro11-fruit1.6-pagination/com/atguigu/myssm/util/StringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro11-fruit1.6-pagination/pro11-fruit1.6-pagination.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro11-fruit1.6-pagination/pro11-fruit1.6-pagination.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro11-fruit1.6-pagination/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro11-fruit1.6-pagination/web/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro12-fruit1.7-keyword/pro12-fruit1.7-keyword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro12-fruit1.7-keyword/pro12-fruit1.7-keyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day5-thymeleaf-fruit/代码/pro12-fruit1.7-keyword/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro13-fruit1.8-mvc/pro13-fruit1.8-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro13-fruit1.8-mvc/pro13-fruit1.8-mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro13-fruit1.8-mvc/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/pro14-fruit1.9-mvc-reflect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/pro14-fruit1.9-mvc-reflect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/src/com/atguigu/fruit/servlets/FruitServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/src/com/atguigu/fruit/servlets/FruitServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/src/com/atguigu/myssm/basedao/BaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro14-fruit1.9-mvc-reflect/src/com/atguigu/myssm/basedao/BaseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro15-fruit2.0-mvc-dispatcherServlet/pro15-fruit2.0-mvc-dispatcherServlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro15-fruit2.0-mvc-dispatcherServlet/pro15-fruit2.0-mvc-dispatcherServlet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro15-fruit2.0-mvc-dispatcherServlet/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro15-fruit2.0-mvc-dispatcherServlet/src/com/atguigu/myssm/myspringmvc/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro15-fruit2.0-mvc-dispatcherServlet/src/com/atguigu/myssm/myspringmvc/DispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro16-fruit2.1-mvc-controller/pro16-fruit2.1-mvc-controller.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro16-fruit2.1-mvc-controller/pro16-fruit2.1-mvc-controller.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day6-servlet-mvc/代码/pro16-fruit2.1-mvc-controller/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/pro17-fruit2.2-mvc-service-ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/pro17-fruit2.2-mvc-service-ioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/fruit/service/impl/FruitServiceImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/basedao/BaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/basedao/BaseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/io/BeanFactory(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/io/ClassPathXmlApplicationContext(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/myspringmvc/DispatcherServlet(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/myspringmvc/ViewBaseServlet(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro17-fruit2.2-mvc-service-ioc/src/com/atguigu/myssm/util/StringUtil(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro18-servlet-api/pro18-servlet-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day7-mvc-ioc-servlet/代码/pro18-servlet-api/pro18-servlet-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro19-filter-listener/pro19-filter-listener.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pro19-filter-listener/pro19-filter-listener.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/controllers/FruitController(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/dao/FruitDAO(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/dao/impl/FruitDAOImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/dao/impl/FruitDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/dao/impl/FruitDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/pojo/Fruit(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/service/FruitService(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/fruit/service/impl/FruitServiceImpl(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/basedao/BaseDAO(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/basedao/ConnUtil(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/basedao/ConnUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/basedao/ConnUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/basedao/DAOException(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/filters/CharacterEncodingFilter(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/filters/OpenSessionInViewFilter(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/ioc/BeanFactory(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/ioc/ClassPathXmlApplicationContext(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/listeners/ContextLoaderListener(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/myspringmvc/DispatcherServlet(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/myspringmvc/DispatcherServletException(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/myspringmvc/ViewBaseServlet(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/trans/TransactionManager(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/src/com/atguigu/myssm/util/StringUtil(1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../Program Files/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26Bcq9oAOKOkk6ZzdSDqvdceCaj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pro20-fruit2.3-mvc-transaction/pro20-fruit2.3-mvc-transaction.iml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.24154136" />
+    <property name="project.structure.side.proportion" value="0.4825986" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.72" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.72" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/pro20_fruit2_3_mvc_transaction_war_exploded" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="pro20-fruit2.3-mvc-transaction:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/pro20_fruit2_3_mvc_transaction_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="08744577-bff0-4aeb-9dd4-b32deea4c354" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61034" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="pro20-fruit2.3-mvc-transaction:war exploded" />
+          <artifact name="pro20-fruit2.3-mvc-transaction:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efbbae3d-cfe4-453f-8073-f298333d4cb7" name="Changes" comment="" />
+      <created>1646900608086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646900608086</updated>
+      <workItem from="1646900609835" duration="13467000" />
+      <workItem from="1646921250613" duration="2510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
